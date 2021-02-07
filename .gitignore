@@ -1,5 +1,5 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 .DS_Store
-.cred.py
-/MODULE04/.cred.py
+
+/MODULE04/cred.py
