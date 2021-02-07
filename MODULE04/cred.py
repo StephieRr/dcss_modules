@@ -1,1 +1,1 @@
-GUARDIAN_KEY = 'git pull https://github.com/UWNETLAB/dcss_modules.gitS'
+GUARDIAN_KEY = '978642b9-4e04-439d-9c41-cc0ed1ae2ffa'
